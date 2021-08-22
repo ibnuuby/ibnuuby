@@ -4,11 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haniueo&label=Profile%20views&color=0e75b6&style=flat" alt="ibnuuby" /> </p>
 
 - 🌱 I’m currently learning **PHP , Flutter**
-
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haniueo&theme=bear&show_icons=true&locale=en&layout=compact" alt="ibnuuby" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haniueo&theme=bear&show_icons=true&locale=en" alt="ibnuuby" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Ibnuuby_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibnuuby" height="30" width="40" /></a>
