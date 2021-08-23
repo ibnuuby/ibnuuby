@@ -2,7 +2,6 @@
 <div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>I'm a college students that interested on web development</p>
 
 [![](https://img.shields.io/badge/-@ibnuuby-black?logo=medium&style=flat-square)](https://medium.com/)
 [![](https://img.shields.io/badge/-ibnuuby_-1fa2f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/Ibnuuby_)
