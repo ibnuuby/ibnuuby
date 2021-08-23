@@ -4,6 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haniueo&label=Profile%20views&color=0e75b6&style=flat" alt="ibnuuby" /> </p>
 
 - 🌱 I’m currently learning **PHP , Flutter**
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnuuby)](https://github.com/ibnuuby/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Ibnuuby_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibnuuby" height="30" width="40" /></a>
