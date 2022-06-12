@@ -12,7 +12,7 @@
 <!-- [![](https://img.shields.io/badge/-rief_rosyidi-1ba94c?logo=hackerrank&style=flat-square&logoColor=white)](https://www.hackerrank.com/rief_rosyidi)   -->
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haniueo&label=Profile%20views&color=0e75b6&style=flat" alt="ibnuuby" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnuuby&label=Profile%20views&color=0e75b6&style=flat" alt="ibnuuby" /> </p>
 
 ### I'm a, Cyber Security Enthusiast
 - 🔭 I’m currently working on: Blog & Design, and some Personal Project
