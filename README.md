@@ -14,9 +14,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haniueo&label=Profile%20views&color=0e75b6&style=flat" alt="ibnuuby" /> </p>
 
-### I'm a, UI/UX & Web Developer
+### I'm a, Cyber Security Enthusiast
 - 🔭 I’m currently working on: Blog & Design, and some Personal Project
-- 🌱 I’m currently learning Html, CSS, Javascript,Bootstrap, Tailwind, PHP, Codeigniter, Flutter.
+- 🌱 I’m currently learning Html, CSS, Javascript,Bootstrap, Tailwind, PHP, Codeigniter, Python.
 - 👯 I’m looking to forward to collaborate. 
 
 <br>
