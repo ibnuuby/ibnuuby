@@ -4,7 +4,7 @@
 <p>Welcome to My Profile</p>
 
 [![](https://img.shields.io/badge/-@ibnuuby-black?logo=medium&style=flat-square)](https://medium.com/)
-[![](https://img.shields.io/badge/-ibnuuby_-1fa2f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/xcore13x
+[![](https://img.shields.io/badge/-ibnuuby_-1fa2f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/xcore13x)
 [![](https://img.shields.io/badge/-ibnuuby_-black?logo=freecodecamp&style=flat-square&logoColor=white)](https://www.freecodecamp.org/ibnuuby_)
 [![](https://img.shields.io/badge/-ibnu_ubaeydillah_-blue?logo=facebook&style=flat-square&logoColor=white)](https://web.facebook.com/ibnu.ubaeydillah)
 [![](https://img.shields.io/badge/-ibnuuby_-red?logo=instagram&style=flat-square&logoColor=white)](https://www.instagram.com/ibnu.uby_/)
