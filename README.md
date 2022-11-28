@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnuuby&label=Profile%20views&color=0e75b6&style=flat" alt="ibnuuby" /> </p>
 
 ### I'm a, Cyber Security Enthusiast
-- 🌱 I’m currently learning Cyber Security,Golang, and Python.
+- 🌱 I’m currently learning Cyber Security
 - 👯 I’m looking to forward to collaborate. 
 
 <br>
